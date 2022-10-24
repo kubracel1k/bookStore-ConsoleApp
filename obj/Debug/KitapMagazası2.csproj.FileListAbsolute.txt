@@ -1,0 +1,7 @@
+C:\Users\hidalgo\Desktop\çalışmalarım\çalışmalarım\C#\ByteProje\KitapMagazası2\bin\Debug\KitapMagazası2.exe.config
+C:\Users\hidalgo\Desktop\çalışmalarım\çalışmalarım\C#\ByteProje\KitapMagazası2\bin\Debug\KitapMagazası2.exe
+C:\Users\hidalgo\Desktop\çalışmalarım\çalışmalarım\C#\ByteProje\KitapMagazası2\bin\Debug\KitapMagazası2.pdb
+C:\Users\hidalgo\Desktop\çalışmalarım\çalışmalarım\C#\ByteProje\KitapMagazası2\obj\Debug\KitapMagazası2.csproj.AssemblyReference.cache
+C:\Users\hidalgo\Desktop\çalışmalarım\çalışmalarım\C#\ByteProje\KitapMagazası2\obj\Debug\KitapMagazası2.csproj.CoreCompileInputs.cache
+C:\Users\hidalgo\Desktop\çalışmalarım\çalışmalarım\C#\ByteProje\KitapMagazası2\obj\Debug\KitapMagazası2.exe
+C:\Users\hidalgo\Desktop\çalışmalarım\çalışmalarım\C#\ByteProje\KitapMagazası2\obj\Debug\KitapMagazası2.pdb
